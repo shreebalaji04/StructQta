@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="705px" height="705px" viewBox="0 0 705 705" style="enable-background:new 0 0 705 705;" xml:space="preserve">
+<title>Page 1</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1_1_" style="opacity:0.4;">
+	<g id="Blog-_x2F_-Underside" transform="translate(-830.000000, -146.000000)">
+		<g id="Page-1" transform="translate(830.000000, 146.000000)">
+			<g id="Clip-2">
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="705" height="705">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="0" y="0" width="705" height="705" id="mask-2_1_">
+				<g style="filter:url(#Adobe_OpacityMaskFilter);">
+					<polygon id="path-1_1_" style="fill:#FFFFFF;" points="352.5,0 0,0 0,705 352.5,705 705,705 705,0 					"/>
+				</g>
+			</mask>
+			<path id="Fill-1" style="mask:url(#mask-2_1_);fill:#D8D8D8;" d="M423.5,694.9c109.5-31,190.1-131.8,190.1-251.1
+				c0-143.9-117.1-261-261-261c-93.6,0-169.7,76.2-169.7,169.7c0,75.3,49.2,139.2,117.2,161.4C182.7,489.5,94.3,385.4,94.3,261
+				C94.3,118.6,210.1,2.8,352.5,2.8c192.8,0,349.7,156.9,349.7,349.7C702.2,521,582.4,662,423.5,694.9 M340.5,519
+				c-86.5-6.2-155-78.4-155-166.5c0-92.1,74.9-166.9,166.9-166.9c2.9,0,5.7,0.1,8.6,0.2c88.1,4.5,158.4,77.5,158.4,166.7
+				c0,92.1-74.9,166.9-166.9,166.9v-0.2C348.5,519.3,344.5,519.1,340.5,519 M2.8,352.5C2.8,185.2,121,45,278.3,10.8
+				C170.4,42.9,91.5,142.9,91.5,261c0,139.9,110.6,254.4,248.9,260.7c4,0.3,8,0.5,12.1,0.5c93.6,0,169.7-76.1,169.7-169.7
+				c0-75.7-49.9-140-118.5-161.8C521.7,214.6,610.7,319,610.7,443.8c0,142.4-115.8,258.2-258.2,258.2v0.2
+				C159.7,702.2,2.8,545.3,2.8,352.5 M352.5,0c-4.5,0-9,0.1-13.4,0.3C150.9,7.4,0,162.6,0,352.5C0,546.9,158.1,705,352.5,705
+				S705,546.9,705,352.5C705,158.1,546.9,0,352.5,0"/>
+		</g>
+	</g>
+</g>
+</svg>
